@@ -1,0 +1,7 @@
+{
+  "files.autoSave": "onFocusChange",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "eslint.run": "onSave",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
